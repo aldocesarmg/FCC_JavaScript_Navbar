@@ -1,0 +1,9 @@
+.links {
+    height: 0;
+    overflow: hidden;
+}
+
+.show-links {
+    /* 160 px */
+    height: 10rem; 
+}
